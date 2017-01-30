@@ -1,0 +1,12 @@
+PODS:
+  - Sourcery (0.5.3)
+
+DEPENDENCIES:
+  - Sourcery
+
+SPEC CHECKSUMS:
+  Sourcery: 8ffee6e95aad86be3f446478f914452211bb7edf
+
+PODFILE CHECKSUM: 836e4daa7bd6208eb416da40bef8924f0dfb8b77
+
+COCOAPODS: 1.2.0
